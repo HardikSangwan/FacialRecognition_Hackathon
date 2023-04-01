@@ -4,7 +4,7 @@ import math
 import numpy
 import face_recognition
 import requests
-subscription_key = "526937c01fbc44d6a79439d31e232fbb"
+subscription_key = "SECRET"
 face_api_url = "https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect"
 
 
